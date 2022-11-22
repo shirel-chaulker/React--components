@@ -1,0 +1,10 @@
+.DynamicImg {
+  width: 200px;
+}
+.main {
+  display: flex;
+  gap: 15px;
+}
+.Data {
+  margin-top: 80px;
+}
